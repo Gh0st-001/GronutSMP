@@ -1,0 +1,133 @@
+[11:24:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:24:33] [ServerMain/INFO]: Loaded 1174 recipes
+[11:24:33] [ServerMain/INFO]: Loaded 1271 advancements
+[11:24:33] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:24:33] [Server thread/INFO]: Loading properties
+[11:24:33] [Server thread/INFO]: This server is running Paper version git-Paper-499 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 9de3f75 on ver/1.20.4)
+[11:24:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:24:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:24:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:24:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[11:24:34] [Server thread/INFO]: Default game type: SURVIVAL
+[11:24:34] [Server thread/INFO]: Generating keypair
+[11:24:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:24:34] [Server thread/INFO]: Using default channel type
+[11:24:34] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[11:24:34] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[11:24:34] [Server thread/INFO]: [EconomyShop] Loading server plugin EconomyShop v1.0.0
+[11:24:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:24:34] [Server thread/INFO]: Preparing level "world"
+[11:24:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:24:35] [Server thread/INFO]: Time elapsed: 830 ms
+[11:24:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:24:35] [Server thread/INFO]: Time elapsed: 25 ms
+[11:24:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:24:35] [Server thread/INFO]: Time elapsed: 12 ms
+[11:24:35] [Server thread/INFO]: [EconomyShop] Enabling EconomyShop v1.0.0
+[11:24:35] [Server thread/INFO]: [EconomyShop] EconomyShop active !
+[11:24:35] [Server thread/INFO]: Running delayed init tasks
+[11:24:35] [Server thread/INFO]: Done (2.352s)! For help, type "help"
+[11:24:35] [Server thread/INFO]: Timings Reset
+[11:24:42] [User Authenticator #0/INFO]: UUID of player just_gh0stt is 56e96762-e98e-4ab0-8866-ffd73aa2bc2f
+[11:24:42] [Server thread/INFO]: just_gh0stt joined the game
+[11:24:42] [Server thread/INFO]: just_gh0stt[/127.0.0.1:60565] logged in with entity id 144 at ([world]-48339.51130935195, 69.0, -33697.24981423837)
+[11:24:46] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:25:09] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:25:30] [Server thread/INFO]: just_gh0stt issued server command: /ah
+[11:25:53] [Server thread/INFO]: just_gh0stt issued server command: /shop
+[11:26:10] [Server thread/INFO]: just_gh0stt issued server command: /shop
+[11:26:26] [Server thread/INFO]: just_gh0stt issued server command: /config
+[11:32:18] [Server thread/INFO]: just_gh0stt issued server command: /config
+[11:33:27] [Server thread/INFO]: just_gh0stt issued server command: /config
+[11:34:27] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:34:43] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:35:01] [Server thread/INFO]: just_gh0stt was slain by Zombie
+[11:35:11] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:35:31] [Server thread/INFO]: just_gh0stt issued server command: /config
+[11:36:38] [Server thread/INFO]: just_gh0stt issued server command: /config
+[11:37:03] [Server thread/INFO]: just_gh0stt issued server command: /shop
+[11:37:17] [Server thread/INFO]: just_gh0stt issued server command: /ah shovel
+[11:37:56] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:38:16] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:39:31] [Server thread/INFO]: just_gh0stt issued server command: /ah wheat
+[11:39:36] [Server thread/INFO]: just_gh0stt issued server command: /ah hay
+[11:40:15] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:40:37] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:40:43] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:41:30] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:42:17] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:42:22] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:42:35] [Server thread/INFO]: just_gh0stt issued server command: /ah diamond
+[11:42:46] [Server thread/INFO]: just_gh0stt issued server command: /ah gold
+[11:42:52] [Server thread/INFO]: just_gh0stt issued server command: /ah gold
+[11:43:26] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:43:32] [Server thread/INFO]: just_gh0stt has made the advancement [The End?]
+[11:44:02] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:44:04] [Server thread/INFO]: just_gh0stt fell out of the world
+[11:44:14] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:45:45] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:45:58] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:46:44] [Server thread/INFO]: just_gh0stt was slain by Enderman
+[11:46:52] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:47:14] [Server thread/INFO]: just_gh0stt issued server command: /ah dirt
+[11:47:58] [Server thread/INFO]: just_gh0stt issued server command: /ah lava
+[11:48:01] [Server thread/INFO]: just_gh0stt has made the advancement [Hot Stuff]
+[11:49:31] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:49:52] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:50:24] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:50:26] [Server thread/INFO]: just_gh0stt was slain by Enderman
+[11:50:37] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[11:51:11] [Server thread/INFO]: just_gh0stt issued server command: /add just_gh0stt 5445665251
+[11:51:18] [Server thread/INFO]: just_gh0stt issued server command: /ah nether
+[11:51:28] [Server thread/INFO]: just_gh0stt issued server command: /ah nether
+[11:51:44] [Server thread/INFO]: just_gh0stt issued server command: /ah nether
+[11:51:47] [Server thread/INFO]: just_gh0stt issued server command: /ah nether
+[11:51:48] [Server thread/INFO]: just_gh0stt has completed the challenge [Cover Me in Debris]
+[11:51:53] [Server thread/INFO]: just_gh0stt issued server command: /ah nether
+[11:52:10] [Server thread/INFO]: just_gh0stt issued server command: /ah golden
+[11:52:19] [Server thread/INFO]: just_gh0stt issued server command: /ah undy
+[11:54:12] [Server thread/INFO]: just_gh0stt issued server command: /sell
+[11:56:49] [Server thread/INFO]: just_gh0stt issued server command: /ah ender
+[11:57:21] [Server thread/INFO]: just_gh0stt issued server command: /ah ely
+[11:57:49] [Server thread/INFO]: just_gh0stt issued server command: /ah fire
+[11:59:57] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[12:00:55] [Server thread/INFO]: just_gh0stt fell out of the world
+[12:01:11] [Server thread/INFO]: just_gh0stt issued server command: /hop
+[12:01:13] [Server thread/INFO]: just_gh0stt issued server command: /shop
+[12:01:46] [Server thread/INFO]: just_gh0stt issued server command: /ah lava
+[12:02:25] [Server thread/INFO]: just_gh0stt has reached the goal [Postmortal]
+[12:02:50] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[12:03:00] [Server thread/INFO]: just_gh0stt issued server command: /rtp
+[12:04:23] [Server thread/INFO]: just_gh0stt issued server command: /ah lava
+[12:06:18] [Server thread/INFO]: just_gh0stt fell out of the world
+[12:06:22] [Server thread/INFO]: just_gh0stt lost connection: Disconnected
+[12:06:22] [Server thread/INFO]: just_gh0stt left the game
+[12:06:27] [Server thread/INFO]: Stopping the server
+[12:06:27] [Server thread/INFO]: Stopping server
+[12:06:27] [Server thread/INFO]: [EconomyShop] Disabling EconomyShop v1.0.0
+[12:06:27] [Server thread/INFO]: Saving players
+[12:06:27] [Server thread/INFO]: Saving worlds
+[12:06:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Saved 39 block chunks, 155 entity chunks, 0 poi chunks in world 'world' in 0,04s
+[12:06:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:06:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 14 entity chunks, 0 poi chunks in world 'world_nether' in 0,00s
+[12:06:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:06:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:06:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
+[12:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:06:28] [Server thread/INFO]: Flushing Chunk IO
+[12:06:28] [Server thread/INFO]: Closing Thread Pool
+[12:06:28] [Server thread/INFO]: Closing Server

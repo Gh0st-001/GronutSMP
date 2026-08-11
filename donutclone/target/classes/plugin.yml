@@ -1,0 +1,43 @@
+name: EconomyShop
+version: '1.0.0'
+main: com.donutclone.economy.EconomyShopPlugin
+api-version: '1.20'
+author: Toi
+description: Systeme d'economie style DonutSMP avec /shop /ah /config
+
+commands:
+  shop:
+    description: Ouvre le menu boutique
+    usage: /shop
+  ah:
+    description: Ouvre la boutique complete (tous les items)
+    usage: /ah
+  config:
+    description: Panel admin de configuration
+    usage: /config
+    permission: economyshop.admin
+  balance:
+    description: Voir son solde
+    usage: /balance [joueur]
+    aliases: [bal, money]
+  pay:
+    description: Payer un joueur
+    usage: /pay <joueur> <montant>
+  add:
+    description: Ajouter de l'argent a un joueur (admin)
+    usage: /add <joueur> <montant>
+    permission: economyshop.admin
+  rtp:
+    description: Teleportation aleatoire sur la carte
+    usage: /rtp
+  sell:
+    description: Ouvre un panier pour vendre plusieurs objets d'un coup
+    usage: /sell
+  order:
+    description: Passer ou remplir des commandes de recolte
+    usage: /order
+
+permissions:
+  economyshop.admin:
+    description: Acces au panel admin /config
+    default: op

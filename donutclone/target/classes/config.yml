@@ -1,0 +1,49 @@
+# ==========================================================
+#  Prix des items - EconomyShop
+#  Format: MATERIAL: prix (nombre brut, sans suffixe)
+#  Tu peux modifier ces valeurs directement ici, ou en jeu
+#  avec /config (recommande, ca sauvegarde tout seul).
+# ==========================================================
+
+starting-balance: 1000
+
+prices:
+  DIRT: 40
+  COBBLESTONE: 30
+  STONE: 35
+  OAK_LOG: 60
+  SAND: 25
+  GRAVEL: 20
+  COAL: 80
+  IRON_INGOT: 500
+  GOLD_INGOT: 1200
+  REDSTONE: 150
+  LAPIS_LAZULI: 200
+  DIAMOND: 5000
+  EMERALD: 4500
+  NETHERITE_INGOT: 2000000
+  NETHERITE_SCRAP: 400000
+  COOKED_BEEF: 100
+  BREAD: 50
+  GOLDEN_APPLE: 15000
+  ENCHANTED_GOLDEN_APPLE: 5000000
+  POTION: 40000
+  SPLASH_POTION: 60000
+  LINGERING_POTION: 90000
+  EXPERIENCE_BOTTLE: 2500
+  ENDER_PEARL: 3000
+  BLAZE_ROD: 8000
+  IRON_SWORD: 2000
+  DIAMOND_SWORD: 45000
+  NETHERITE_SWORD: 3000000
+  BOW: 4000
+  CROSSBOW: 6000
+  ARROW: 100
+  SHIELD: 8000
+  ELYTRA: 200000000
+  TOTEM_OF_UNDYING: 50000000
+  NETHER_STAR: 750000000
+  DRAGON_EGG: 5000000000
+  BEACON: 900000000
+  SHULKER_BOX: 8000000
+  ENCHANTED_BOOK: 100000

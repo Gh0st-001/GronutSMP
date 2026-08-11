@@ -1,0 +1,52 @@
+# ==========================================================
+#  Categories du /shop
+#  icon: le material affiche comme icone de la categorie
+#  slot: emplacement dans la derniere ligne du menu /shop (0-8)
+#  items: liste des materials contenus dans la categorie
+# ==========================================================
+
+categories:
+  nourriture:
+    display-name: '&aNourriture'
+    icon: COOKED_BEEF
+    slot: 1
+    items:
+    - COOKED_BEEF
+    - BREAD
+    - GOLDEN_APPLE
+    - ENCHANTED_GOLDEN_APPLE
+  combat:
+    display-name: '&cCombat'
+    icon: DIAMOND_SWORD
+    slot: 3
+    items:
+    - IRON_SWORD
+    - DIAMOND_SWORD
+    - NETHERITE_SWORD
+    - BOW
+    - CROSSBOW
+    - ARROW
+    - SHIELD
+  utiles:
+    display-name: '&bUtiles'
+    icon: ENDER_PEARL
+    slot: 5
+    items:
+    - BLAZE_ROD
+    - ELYTRA
+    - SHULKER_BOX
+    - ENDER_PEARL
+    - EXPERIENCE_BOTTLE
+    - TOTEM_OF_UNDYING
+    - ENCHANTED_GOLDEN_APPLE
+  blocs:
+    display-name: '&eBlocs'
+    icon: STONE
+    slot: 7
+    items:
+    - DIRT
+    - COBBLESTONE
+    - STONE
+    - OAK_LOG
+    - SAND
+    - GRAVEL
